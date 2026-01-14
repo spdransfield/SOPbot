@@ -14,3 +14,9 @@ venv/
 
 # PyCharm
 .idea/
+
+
+### SOPS
+data/
+
+
