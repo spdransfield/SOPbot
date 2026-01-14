@@ -27,4 +27,6 @@ SOPbot/
 - "How should informed consent be obtained remotely?"
 - "Who is responsible for fiscal reporting?"
 
-#### See notebooks/ for testing results ####
+
+
+*** #### See notebooks/ for testing results #### ***
