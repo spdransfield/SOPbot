@@ -26,3 +26,5 @@ SOPbot/
 - "What is the parking procedure for patients?"
 - "How should informed consent be obtained remotely?"
 - "Who is responsible for fiscal reporting?"
+
+#### See notebooks/ for testing results ####
