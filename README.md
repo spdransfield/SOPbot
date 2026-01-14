@@ -1,6 +1,6 @@
 # SOPbot - Clinical Research SOP Q&A System
 
-RAG system for querying Clinical Research Enterprise Standard Operating Procedures.
+RAG system for querying Clinical Research Enterprise Standard Operating Procedures. See notebooks/ for testing results. 
 
 ## What it does
 
@@ -26,7 +26,3 @@ SOPbot/
 - "What is the parking procedure for patients?"
 - "How should informed consent be obtained remotely?"
 - "Who is responsible for fiscal reporting?"
-
-
-
-*** #### See notebooks/ for testing results #### ***
